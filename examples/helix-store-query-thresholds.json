@@ -1,0 +1,17 @@
+{
+  "repo": "helix-store-query-line",
+  "thresholds": {
+    "signal": 2,
+    "slack": 1,
+    "confidence": 1,
+    "drag": 5,
+    "ship": 195,
+    "watch": 118
+  },
+  "terms": [
+    "index fit",
+    "join width",
+    "constraint risk",
+    "plan drift"
+  ]
+}
